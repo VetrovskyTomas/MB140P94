@@ -16,4 +16,7 @@ Offered by the Department of Genetics and Microbiology of the Charles University
 
 In this course, we are going to explore the main approaches applied for microbiome studies based on high- throughput sequencing technologies. The students will get familiarized with methods for assessment of community composition, genome sequencing, metagenomics and metatranscriptomics. We are going to tackle subjects from the project planning and experimental design to the most used strategies for data treatment, data analysis, exploration and the presentation of results.
 
-[Download output](wget https://raw.githubusercontent.com/pdobbler/cool-python-scripts/main/GlobalBacteria/Class_1_Intro_and_History_of_sequencing_and_Phylogenetics.pdf)
+
+### 7.3. - Class 1: Introduction & History of sequencing and phylogenetics
+
+[Class 1 Slides](https://raw.githubusercontent.com/pdobbler/cool-python-scripts/main/GlobalBacteria/Class_1_Intro_and_History_of_sequencing_and_Phylogenetics.pdf)
