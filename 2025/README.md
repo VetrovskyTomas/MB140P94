@@ -19,4 +19,4 @@ In this course, we are going to explore the main approaches applied for microbio
 
 ### 7.3. - Class 1: Introduction & History of sequencing and phylogenetics
 
-[Class 1 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/edit/main/2025/Class_1_Intro_and_History_of_sequencing_and_Phylogenetics.pdf)
+[Class 1 Slides](https://raw.githubusercontent.com/VetrovskyTomas/main/MB140P94/2025/Class_1_Intro_and_History_of_sequencing_and_Phylogenetics.pdf)
