@@ -23,3 +23,12 @@ In this course, we are going to explore the main approaches applied for microbio
 
 ### 14.3. - Class 2: Modern sequencing methods
 
+[Class 2 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_2_Modern_sequencing_methods.pdf)
+
+### 21.3. - Class 3: Bioinformatic data and Linux
+
+[Class 3 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_3_BioinformaticLinux.pdf)
+
+
+
+
