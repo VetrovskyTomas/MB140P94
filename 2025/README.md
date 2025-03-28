@@ -16,6 +16,23 @@ Offered by the Department of Genetics and Microbiology of the Charles University
 
 In this course, we are going to explore the main approaches applied for microbiome studies based on high- throughput sequencing technologies. The students will get familiarized with methods for assessment of community composition, genome sequencing, metagenomics and metatranscriptomics. We are going to tackle subjects from the project planning and experimental design to the most used strategies for data treatment, data analysis, exploration and the presentation of results.
 
+# Class Schedule
+
+| Date      | Topic                                                         | Lecturer / Notes                   |
+|-----------|---------------------------------------------------------------|------------------------------------|
+| **7.3.**  | Introduction & History of sequencing and phylogenetics        |                                    |
+| **14.3.** | Modern sequencing methods                                     |                                    |
+| **21.3.** | Bioinformatic data and Linux (hands-on)                       | Linux                              |
+| **28.3.** | Amplicon data (theory)                                        |                                    |
+| **4.4.**  | Amplicon data (hands-on)                                      | SEED2 or Linux                     |
+| **11.4.** | Methods for studying microbial communities – Stable Isotope Probing (SIP) | **Camelia Algora** (online)        |
+| **18.4.** | **Good Friday Holiday (No Class)**                            |                                    |
+| **25.4.** | Introduction to multivariate data analysis                    | **Iñaki Odriozola** (online)       |
+| **2.5.**  | Shotgun data – genome assembly and metagenomics               |                                    |
+| **9.5.**  | Experimental design                                           | **Petr Baldrian**                  |
+| **16.5.** | Analysis of RNA and Metatranscriptomics                       | **Petr Baldrian**                  |
+
+
 
 ### 7.3. - Class 1: Introduction & History of sequencing and phylogenetics
 
