@@ -50,7 +50,7 @@ In this course, we are going to explore the main approaches applied for microbio
 
 ### 28.3. - Class 4: Amplicon data
 
-[Class 3 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_3_BioinformaticLinux.pdf)
+[Class 4 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_3_BioinformaticLinux.pdf)
 
 ### 4.4. - Class 5: Amplicon data (hands-on)
 
