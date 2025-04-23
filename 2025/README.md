@@ -59,5 +59,10 @@ In this course, we are going to explore the main approaches applied for microbio
 [SEED2 SOFTWARE](https://www.biomed.cas.cz/mbu/lbwrf/seed/)
 
 
+### 11.4. - Class 6: Methods for studying microbial communities – Stable Isotope Probing (SIP)
+
+[Class 6 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_6_Methods_for_studying_microbial_communities_SIP.pdf)
+
+
 
 
