@@ -63,6 +63,15 @@ In this course, we are going to explore the main approaches applied for microbio
 
 [Class 6 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_6_Methods_for_studying_microbial_communities_SIP.pdf)
 
+### 25.4. - Class 7: Introduction to multivariate data analysis
+
+[Dunthorn_2017 - data in csv formate](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Dunthorn_2017.csv)
+
+[origin - data in csv formate](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/origin.csv)
+
+
+
+
 
 
 
