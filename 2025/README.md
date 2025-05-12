@@ -69,6 +69,17 @@ In this course, we are going to explore the main approaches applied for microbio
 
 [origin - data in csv formate (click right and save as...)](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/origin.csv)
 
+[Class 7 Slides I.](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_7_Multivariate_Microbiome.pdf)  
+
+[Class 7 Slides II.](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_7_Microbiome_course_2025.pdf)
+
+### 2.5. - Class 8: Shotgun data – genome assembly and metagenomics
+
+[Class 8 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_8_Shotgun_data_genome_assembly.pdf)  
+
+
+
+
 
 
 
