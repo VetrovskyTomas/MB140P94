@@ -77,6 +77,16 @@ In this course, we are going to explore the main approaches applied for microbio
 
 [Class 8 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_8_Shotgun_data_genome_assembly.pdf)  
 
+### 9.5. - Class 9: Methods in Microbial Ecology - Experimental Design - Data Presentation
+
+[Class 9 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_9_Methods_Experimental_design.pdf)  
+
+### 16.5. - Class 10: Metatranscriptomics and analysis of microbial activity
+
+[Class 10 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Class_10_Metatranscriptomics.pdf)  
+
+  
+
 
 
 
