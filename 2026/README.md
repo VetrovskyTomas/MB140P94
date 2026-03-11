@@ -32,7 +32,7 @@ In this course, we are going to explore the main approaches applied for microbio
 | **10.4.** | Shotgun data – genome assembly and metagenomics               |                                    |
 | **17.4.** | Introduction to multivariate data analysis                    | **Iñaki Odriozola** (online)       |
 | **24.4.** | Current bioinformatic methods                                 |                                    |
-| **1.5.**  | ** Labour Day (No Class)**                                    |                                    |
+| **1.5.**  | **Labour Day (No Class)**                                    |                                    |
 | **8.5.**  | **Liberation Day (No Class)**                                 |                                    |
 | **10.5.** | Analysis of RNA and Metatranscriptomics                       | **Petr Baldrian**                  |
 
