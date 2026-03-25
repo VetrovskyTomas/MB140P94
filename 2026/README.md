@@ -46,17 +46,25 @@ In this course, we are going to explore the main approaches applied for microbio
 
 [Class 2 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_2_Methods_2026.pdf)  
 
-### 6.3. - Class 2: Modern sequencing methods
+### 6.3. - Class 3: Modern sequencing methods
 
 [Class 3 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_3_Modern_sequencing_methods_2026.pdf)
 
-### 13.3. - Class 3: Bioinformatic data and Linux (hands-on)
+### 13.3. - Class 4: Bioinformatic data and Linux (hands-on)
 
 [Class 4 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_4_Bioinformatic_Linux_2026.pdf)  
 
 [Server acces - manual](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Linux_acces.pdf)  
 
+### 20.3. - Class 5: Amplicon data (theory)
 
+[Class 5 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_5_Amplicon_data_2026.pdf)
+
+### 27.3. - Class 6: Amplicon data (hands-on)
+
+[Linux metataxonomic pipeline](https://github.com/pdobbler/cool-python-scripts/tree/main/Amplicons/Course_MB140P94)
+
+[SEED2 SOFTWARE](https://www.biomed.cas.cz/mbu/lbwrf/seed/)
 
   
 
