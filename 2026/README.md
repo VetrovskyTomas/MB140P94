@@ -66,5 +66,15 @@ In this course, we are going to explore the main approaches applied for microbio
 
 [SEED2 SOFTWARE](https://www.biomed.cas.cz/mbu/lbwrf/seed/)
 
+### 10.4. - Class 7: Shotgun data – genome assembly and metagenomics   
+
+[Class 5 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_7_Shotgun_data_2026.pdf)
+
+### 17.4. - Class 8: Introduction to multivariate data analysis (online)
+
+[Class 8 Slides I.](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Microbiome_course.pdf)  
+
+[Class 8 Slides II.](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2025/Multivariate_Microbiome.pdf)
+
   
 
