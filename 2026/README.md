@@ -68,7 +68,7 @@ In this course, we are going to explore the main approaches applied for microbio
 
 ### 10.4. - Class 7: Shotgun data – genome assembly and metagenomics   
 
-[Class 5 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_7_Shotgun_data_2026.pdf)
+[Class 7 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_7_Shotgun_data_2026.pdf)
 
 ### 17.4. - Class 8: Introduction to multivariate data analysis (online)
 
