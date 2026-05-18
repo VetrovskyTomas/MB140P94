@@ -31,8 +31,8 @@ In this course, we are going to explore the main approaches applied for microbio
 | **3.4.**  | **Good Friday (No Class)**                                    |                                    |
 | **10.4.** | Shotgun data – genome assembly and metagenomics               |                                    |
 | **17.4.** | Introduction to multivariate data analysis                    | **Iñaki Odriozola** (online)       |
-| **24.4.** | Current bioinformatic methods                                 |                                    |
-| **1.5.**  | **Labour Day (No Class)**                                    |                                    |
+| **24.4.** | Current methods - Application Cases                           |                                    |
+| **1.5.**  | **Labour Day (No Class)**                                     |                                    |
 | **8.5.**  | **Liberation Day (No Class)**                                 |                                    |
 | **15.5.** | Analysis of RNA and Metatranscriptomics                       | **Petr Baldrian**                  |
 
@@ -76,5 +76,12 @@ In this course, we are going to explore the main approaches applied for microbio
 
 [Class 8 Slides II.](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Multivariate_Microbiome.pdf)
 
+### 24.4. - Class 9: Current methods - Application Cases
+
+[Class 9 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_9_Current_Methods_2026.pdf)
+
+### 15.5. - Class 10:  Analysis of RNA and Metatranscriptomics   
+
+[Class 10 Slides](https://raw.githubusercontent.com/VetrovskyTomas/MB140P94/main/2026/Class_10_Metatranscriptomics.pdf) 
   
 
